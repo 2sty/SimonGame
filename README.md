@@ -6,4 +6,4 @@ The board has four colored buttons, each producing a particular tone when it's p
 
 via Wikipedia.com
 
-Live version: 2sty.github.io/SimonGame
+Live version: https://2sty.github.io/SimonGame/
